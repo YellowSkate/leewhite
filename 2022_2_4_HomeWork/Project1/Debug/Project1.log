@@ -1,0 +1,6 @@
+﻿  源.c
+F:\GitSpace\CaoGao\2022_2_4_HomeWork\Project1\源.c(32,17): warning C4047: “函数”:“int *”与“int [4][5]”的间接级别不同
+F:\GitSpace\CaoGao\2022_2_4_HomeWork\Project1\源.c(32,13): warning C4024: “search”: 形参和实参 1 的类型不同
+F:\GitSpace\CaoGao\2022_2_4_HomeWork\Project1\源.c(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+F:\GitSpace\CaoGao\2022_2_4_HomeWork\Project1\源.c(35,1): warning C4047: “初始化”:“int **”与“int (*)[5]”的间接级别不同
+  Project1.vcxproj -> F:\GitSpace\CaoGao\2022_2_4_HomeWork\Project1\Debug\Project1.exe
