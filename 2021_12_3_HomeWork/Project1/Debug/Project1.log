@@ -1,2 +1,5 @@
 ﻿  homework.c
+F:\GitSpace\CaoGao\2021_12_3_HomeWork\Project1\homework.c(280,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+F:\GitSpace\CaoGao\2021_12_3_HomeWork\Project1\homework.c(283,26): warning C4474: printf: 格式字符串中传递的参数太多
+F:\GitSpace\CaoGao\2021_12_3_HomeWork\Project1\homework.c(283,26): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
   Project1.vcxproj -> F:\GitSpace\CaoGao\2021_12_3_HomeWork\Project1\Debug\Project1.exe
