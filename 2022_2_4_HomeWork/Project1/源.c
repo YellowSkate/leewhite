@@ -31,10 +31,8 @@ int main(){
 					{15,16,17,18,19} };
 	if (search(mat , 19, 4, 5)) printf("yes\n");
 	else printf("no\n");
-	int (*p)[5] = mat;
-	int** p2 = mat;
-	printf("%d\n====", *p);
-	printf("%d", *p2);
+
+
 
 	return 0;
 }
